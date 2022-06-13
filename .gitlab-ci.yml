@@ -1,0 +1,2 @@
+test:
+  script: cat index.php | grep -q 'The Amazing Web App!'
