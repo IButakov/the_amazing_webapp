@@ -11,7 +11,7 @@
     	<input type="text" name="age" id="age">
     	<label for="location">Город</label>
     	<input type="text" name="location" id="location">
-    	<input type="submit" name="submit" value="Submit">
+    	<input type="submit" name="submit" value="Добавить">
     </form>
 
     <a href="index.php">Back to home</a>
